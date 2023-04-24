@@ -1,8 +1,7 @@
-<h2>Bonsoir Minnasan</h2>
-<ul>
-  <li>Name : KiraiEEE</li>
-  <li>JOB : NONE</li>
-  <li>SKILLS : NONE</li>
-  <li>INTERESTS : NONE</li>
-  <li>IDK : NONE</li>
-</ul>
+Welcome to KiraiEEE 🌸
+Topics :
+* Anime
+* Gaming
+* Coding ofc
+* ...
+<img src="https://media.tenor.com/Kj6s3vYeWJEAAAAC/neko-cute.gif"/>
