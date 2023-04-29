@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **MY GOD to fix my laziness issues**
 
-- 👨‍💻 All of my projects are [here or maybe deleted due being bored](here or maybe deleted due being bored)
+- 👨‍💻 All of my projects are **here or maybe deleted due being bored**
 
 - 💬 Ask me about **Anime :))))))) plz**
 
 - 📫 Okay thats my email if u want **akram.bf.web@gmail.com**
 
-- 📄 Know about my experiences [http://kiraieee.rf.gd/kawaii0/](http://kiraieee.rf.gd/kawaii0/)
+- 📄 Know about my experiences [http://kiraieee.rf.gd/kawaii0/](http://kiraieee.rf.gd/resume/cv.pdf)
 
 - ⚡ Fun fact **i'm not gay**
 
