@@ -17,7 +17,7 @@
 
 - 📫 Okay thats my email if u want **akram.bf.web@gmail.com**
 
-- 📄 Know about my experiences [http://kiraieee.rf.gd/kawaii0/](http://kiraieee.rf.gd/resume/cv.pdf)
+- 📄 Know about my experiences [<img src="https://www.freeiconspng.com/thumbs/save-icon/save-download-icon-10.png"/>](http://kiraieee.rf.gd/resume/cv.pdf)
 
 - ⚡ Fun fact **i'm not gay**
 
