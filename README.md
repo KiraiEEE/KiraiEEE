@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, @everyone @OG </h1>
-<h3 align="center">a fearless code ninja on a quest for the ultimate coding jutsu! 💻🔥🐱‍</h3>
+<h3 align="center">a fearless code shinobi on a quest for the ultimate coding jutsu! 💻🐱‍</h3>
 
 <p align="left"> <a href="https://twitter.com/kiraieee" target="blank"><img src="https://img.shields.io/twitter/follow/kiraieee?logo=twitter&style=for-the-badge" alt="kiraieee" /></a> </p>
 
