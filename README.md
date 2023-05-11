@@ -17,4 +17,4 @@
 
 **Stay classy, stay cool and dont be a fool!** (WestJett said) 😎🐱‍👤
 
-<a href="http://kiraieee.rf.gd" ><h2>[ + ]</h2></a>
+<a href="http://kiraieee.rf.gd" >KiraiEEE</a>
