@@ -3,19 +3,6 @@
 
 <br>
 
-<figure>
-
-    <iframe
-    title="Discord user embed"
-    width="340"
-    height=72
-    frameborder="0"
-    sandbox="allow-scripts"
-    src="https://widgets.vendicated.dev/user?id=711705576844951552&theme=dark&banner=false&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false&"
-    ></iframe>
-
-</figure>
-
 <p align="center"> <a href="https://twitter.com/kiraieee" target="blank"><img src="https://img.shields.io/twitter/follow/kiraieee?logo=twitter&style=for-the-badge" alt="kiraieee" /></a> </p>
 
 **When I'm not busy fighting off bugs and errors, you can find me chilling out with my favorite anime series or discovering new manga titles to dive into. 📚🍿**
