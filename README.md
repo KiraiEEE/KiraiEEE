@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, @everyone</h1>
 
-<h2 align="left">A fearless code shinobi on a quest for the ultimate coding jutsu! 💻</h2>
 
+<h3 align="center">a fearless code shinobi on a quest for the ultimate coding jutsu! 💻🐱‍</h3>
 ###
 
 <div align="center">
@@ -70,8 +70,6 @@
 
 ###
 
-
-<h3 align="center">a fearless code shinobi on a quest for the ultimate coding jutsu! 💻🐱‍</h3>
 
 
 **When I'm not busy fighting off bugs and errors, you can find me chilling out with my favorite anime series or discovering new manga titles to dive into. 📚🍿**
