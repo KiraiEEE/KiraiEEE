@@ -58,6 +58,8 @@
   <img height="200" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=6c09b952ox7oqp43or5xnw7cc8r9a6q8qrtm5d08xonyx07q&ep=v1_gifs_search&rid=giphy.gif"  />
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fb73ooo5k3vbhnbarneqgc3sr)
+
 ###
 
 <div align="right">
