@@ -61,6 +61,16 @@
 
 ###
 
+<iframe
+    title="Discord user embed"
+    width="340"
+    height=72
+    frameborder="0"
+    sandbox="allow-scripts"
+    src="https://widgets.vendicated.dev/user?id=711705576844951552&theme=dark&banner=false&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false&">
+</iframe>
+
+
 <div align="left" >
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=kiraieee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
