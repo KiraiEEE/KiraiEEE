@@ -3,10 +3,6 @@
 
 <h3 align="center">a fearless code shinobi on a quest for the ultimate coding jutsu! 💻🐱‍</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiraieee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiraieee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -54,19 +50,23 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=6c09b952ox7oqp43or5xnw7cc8r9a6q8qrtm5d08xonyx07q&ep=v1_gifs_search&rid=giphy.gif"  />
-</div>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fb73ooo5k3vbhnbarneqgc3sr)
-
-###
-
 <div align="right">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="28" height="16" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="28" height="16" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="28" height="16" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="16" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kiraieee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="right">
+  <img height="200" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=6c09b952ox7oqp43or5xnw7cc8r9a6q8qrtm5d08xonyx07q&ep=v1_gifs_search&rid=giphy.gif"  />
 </div>
 
 ###
