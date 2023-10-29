@@ -47,7 +47,7 @@
 </div>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fb73ooo5k3vbhnbarneqgc3sr)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fb73ooo5k3vbhnbarneqgc3sr&count={count})
 
 <div align="right">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="28" height="16" alt="twitter logo"  />
