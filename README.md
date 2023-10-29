@@ -1,5 +1,6 @@
 <h1 align="center">Greetings, @everyone</h1>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fb73ooo5k3vbhnbarneqgc3sr&count={count})
 
 <h3 align="center">a fearless code shinobi on a quest for the ultimate coding jutsu! 💻🐱‍</h3>
 
