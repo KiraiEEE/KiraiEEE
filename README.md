@@ -1,5 +1,4 @@
 <h1 align="center">Greetings, @everyone</h1>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fb73ooo5k3vbhnbarneqgc3sr)
 
 <h3 align="center">a fearless code shinobi on a quest for the ultimate coding jutsu! 💻🐱‍</h3>
 
@@ -7,7 +6,7 @@
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/ae/85/01/ae85017b35de07f0fe5fc5accfa3c59f.gif"  />
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fb73ooo5k3vbhnbarneqgc3sr)
 ###
 
 <div align="left">
