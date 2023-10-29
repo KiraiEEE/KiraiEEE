@@ -6,7 +6,6 @@
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/ae/85/01/ae85017b35de07f0fe5fc5accfa3c59f.gif"  />
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fb73ooo5k3vbhnbarneqgc3sr)
 ###
 
 <div align="left">
@@ -48,6 +47,7 @@
 </div>
 
 ###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=fb73ooo5k3vbhnbarneqgc3sr)
 
 <div align="right">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="28" height="16" alt="twitter logo"  />
