@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/ae/85/01/ae85017b35de07f0fe5fc5accfa3c59f.gif"  />
+
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=natemoo-re&show_offline=false&background_color=4d4242&interchange=false&bar_color=ee11a8&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
