@@ -1,6 +1,6 @@
 <h1 align="center">Greetings, @everyone</h1>
 
-<h3 align="center">a fearless code shinobi on a quest for the ultimate coding jutsu! 💻🐱‍</h3>
+<h3 align="center">a fearless Dev shinobi on a quest for the ultimate coding jutsu! 💻🐱‍</h3>
 
 
 ###
@@ -75,7 +75,7 @@
 
 **When I'm not coding or anime-ing, you can catch me chowing down on some ramen, practicing my sword-fighting skills, or just chilling with my fellow homies. 🍜🗡️👥**
 
-**Hit me up at akram.bf.web@gmail.com if you want to chat about anime, coding, or anything in between. Let's be friends! 🤗**
+**Hit me up at akram.bf.web@gmail.com if you want to chat about anime, coding, AI, Gaming or anything in between. Let's be friends! 🤗**
 
 **Stay classy, stay cool and dont be a fool!** (WestJett said) 😎🐱‍👤
 
