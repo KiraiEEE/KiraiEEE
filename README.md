@@ -47,7 +47,7 @@
 
 
 ###
-  [![Discord Presence](https://lanyard.kyrie25.me/api/711705576844951552)](https://discord.com/users/711705576844951552)
+[![Discord Presence](https://lanyard.cnrad.dev/api/711705576844951552)](https://discord.com/users/711705576844951552)
 <br>
 
 
