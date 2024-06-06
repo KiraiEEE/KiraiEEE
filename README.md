@@ -2,14 +2,14 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=natemoo-re&show_offline=false&background_color=4d4242&interchange=false&bar_color=ee11a8&bar_color_cover=true" alt="Spotify GitHub Profile">
 </p>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="Electron Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="35"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="Fedora Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="35"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35"/>
 </div>
 <p align="center">
-  <img src="https://media3.giphy.com/media/11lxCeKo6cHkJy/200w.gif" alt="Cool Ninja GIF" height="200">
+  <img src="https://media3.giphy.com/media/11lxCeKo6cHkJy/200w.gif" height="198">
 </p>
 <p align="center">
   <a href="https://discord.com/users/711705576844951552">
