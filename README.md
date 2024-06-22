@@ -1,7 +1,5 @@
 <div align="center">
-
 # 🎵 Vibing & Coding 🚀
-
 <table>
   <tr>
     <td width="55%">
@@ -14,13 +12,10 @@
     </td>
   </tr>
 </table>
-
 <a href="https://discord.com/users/711705576844951552">
   <img src="https://lanyard.cnrad.dev/api/711705576844951552" alt="Discord Presence" width="50%">
 </a>
-
 <br><br>
-
 <table>
   <tr>
     <td>
@@ -31,6 +26,7 @@
     </td>
   </tr>
 </table>
-
-</div>
+<br>
+<br>
 <img src="https://cdn.discordapp.com/emojis/855503002809663488.gif" alt="" width="10%">
+</div>
