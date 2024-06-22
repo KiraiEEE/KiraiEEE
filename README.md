@@ -1,54 +1,16 @@
-# Welcome to My Profile! 🚀
-
 <div align="center">
-
   ## 🎵 Currently Vibing To
   <a href="https://open.spotify.com/user/fb73ooo5k3vbhnbarneqgc3sr">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=11ff00&bar_color_cover=false" alt="Spotify Profile" />
   </a>
-
-  ## 💻 Tech Stack
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" title="Vue.js"/>
-  <!-- Add more tech stack icons here -->
-
-  ## 🌟 Fun Zone
   <img src="https://media3.giphy.com/media/11lxCeKo6cHkJy/200w.gif" height="200" alt="Fun GIF">
-
-  ## 🎮 Discord Presence
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" title="Vue.js"/>
   <a href="https://discord.com/users/711705576844951552">
     <img src="https://lanyard.cnrad.dev/api/711705576844951552" alt="Discord Presence">
   </a>
-
   ## 📜 Words to Live By
   <blockquote>
     <p><em>"Stay classy, stay cool, and don't be a fool!"</em></p>
     <footer>- WestJett</footer>
   </blockquote>
-
-</div>
-
----
-
-<details>
-<summary>📊 GitHub Stats</summary>
-<br>
-<!-- Add your GitHub stats here -->
-</details>
-
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<br>
-<!-- Add your GitHub trophies here -->
-</details>
-
----
-
-<div align="center">
-  <a href="https://twitter.com/your_twitter">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://linkedin.com/in/your_linkedin">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <!-- Add more social media badges here -->
 </div>
