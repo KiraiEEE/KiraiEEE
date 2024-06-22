@@ -1,7 +1,5 @@
 <div align="center">
-
 # 🎵 Vibing & Coding 🚀
-
 <table>
   <tr>
     <td width="70%">
@@ -14,15 +12,10 @@
     </td>
   </tr>
 </table>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js" title="Vue.js"/>
-
 <a href="https://discord.com/users/711705576844951552">
   <img src="https://lanyard.cnrad.dev/api/711705576844951552" alt="Discord Presence" width="60%">
 </a>
-
 <br>
-
 <table>
   <tr>
     <td>
@@ -33,5 +26,4 @@
     </td>
   </tr>
 </table>
-
 </div>
