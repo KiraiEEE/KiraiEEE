@@ -26,29 +26,3 @@
   </blockquote>
 
 </div>
-
----
-
-<details>
-<summary>📊 GitHub Stats</summary>
-<br>
-<!-- Add your GitHub stats here -->
-</details>
-
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<br>
-<!-- Add your GitHub trophies here -->
-</details>
-
----
-
-<div align="center">
-  <a href="https://twitter.com/your_twitter">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://linkedin.com/in/your_linkedin">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <!-- Add more social media badges here -->
-</div>
