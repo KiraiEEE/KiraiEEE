@@ -4,7 +4,7 @@
   <tr>
     <td width="70%">
       <a href="https://open.spotify.com/user/fb73ooo5k3vbhnbarneqgc3sr">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=11ff00&bar_color_cover=false" alt="Spotify Profile" width="60%" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=11ff00&bar_color_cover=false" alt="Spotify Profile" width="40%" />
       </a>
     </td>
     <td width="30%">
@@ -13,7 +13,7 @@
   </tr>
 </table>
 <a href="https://discord.com/users/711705576844951552">
-  <img src="https://lanyard.cnrad.dev/api/711705576844951552" alt="Discord Presence" width="50%">
+  <img src="https://lanyard.cnrad.dev/api/711705576844951552" alt="Discord Presence" width="30%">
 </a>
 <br>
 <table>
