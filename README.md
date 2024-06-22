@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=natemoo-re&show_offline=false&background_color=4d4242&interchange=false&bar_color=ee11a8&bar_color_cover=true" alt="Spotify GitHub Profile">
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fb73ooo5k3vbhnbarneqgc3sr&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=11ff00&bar_color_cover=true)]]
 </p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35"/>
