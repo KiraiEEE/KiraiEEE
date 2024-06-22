@@ -13,7 +13,7 @@
   </tr>
 </table>
 <a href="https://discord.com/users/711705576844951552">
-  <img src="https://lanyard.cnrad.dev/api/711705576844951552" alt="Discord Presence" width="50%">
+  <img src="https://lanyard.cnrad.dev/api/711705576844951552" alt="Discord Presence" width="40%">
 </a>
 <br>
 <table>
