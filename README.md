@@ -2,10 +2,6 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=natemoo-re&show_offline=false&background_color=4d4242&interchange=false&bar_color=ee11a8&bar_color_cover=true" alt="Spotify GitHub Profile">
 </p>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="35"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="35"/>
-  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35"/>
 </div>
 <p align="center">
