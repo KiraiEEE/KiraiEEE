@@ -33,4 +33,4 @@
 </table>
 
 </div>
-<img src="https://cdn.discordapp.com/emojis/855503002809663488.gif" alt="" width="100%">
+<img src="https://cdn.discordapp.com/emojis/855503002809663488.gif" alt="" width="10%">
