@@ -8,7 +8,7 @@
       </a>
     </td>
     <td width="45%">
-      <img src="https://media3.giphy.com/media/11lxCeKo6cHkJy/200w.gif" alt="Fun GIF" width="100%">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Fun GIF" width="100%">
     </td>
   </tr>
 </table>
