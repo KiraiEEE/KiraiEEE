@@ -31,5 +31,5 @@
 <img src="https://cdn.discordapp.com/emojis/855503002809663488.gif" alt="" width="10%">
   <br>
   
-  <img src="https://media3.giphy.com/media/11lxCeKo6cHkJy/200w.gif" alt="Fun GIF" width="100%">
+  <img src="https://media3.giphy.com/media/11lxCeKo6cHkJy/200w.gif" alt="Fun GIF" width="13%">
 </div>
