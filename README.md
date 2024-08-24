@@ -137,9 +137,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiraieee&theme=radical&layout=compact" alt="Top Languages" />
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
