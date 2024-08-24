@@ -38,19 +38,16 @@
 
 
 
+<h2 align="center">My Skill Constellations 🌌</h2>
 
-<h2 align="center">🚀 Tech Odyssey: My Skill Constellations 🌌</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3CADF2&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
-</p>
 
 <div align="center">
-  
-  | 🌟 Core Languages | 🛠️ Development Tools | 🧠 AI & Data Science |
-  |:-----------------:|:---------------------:|:---------------------:|
-  | <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40"> <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="40"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40"> | <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="40"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40"> <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40"> | <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="40"> <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="40"> <img src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="40"> |
-  | Python, JavaScript, C++ | VS Code, Git, Docker | TensorFlow, NumPy, Pandas |
+
+| 🌟 Core Languages | 🛠️ Development Tools | 🧠 AI & Data Science |
+|:-----------------:|:---------------------:|:---------------------:|
+| <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp" width="60"><br>Python | <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60"><br>VS Code | <img src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" width="60"><br>TensorFlow |
+| <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60"><br>JavaScript | <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="60"><br>Git | <img src="https://i.giphy.com/media/SU2ic3wTfuC6JhD1lA/200w.webp" width="60"><br>NumPy |
+| <img src="https://i.giphy.com/media/SsCYf6DRFJrOpP0IoM/200.webp" width="60"><br>C++ | <img src="https://i.giphy.com/media/kH6CqYiquZawmU1HI6/200w.webp" width="60"><br>Docker | <img src="https://i.giphy.com/media/jaOXKCxtBPLieRLI0c/200w.webp" width="60"><br>Pandas |
 
 </div>
 
@@ -131,7 +128,6 @@
 <div align="center">
   
   [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
   [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 </div>
@@ -139,7 +135,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiraieee&theme=radical&layout=compact" alt="Top Languages" />
 </div>
 
 <br>
