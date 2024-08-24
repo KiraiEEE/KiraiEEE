@@ -19,8 +19,8 @@
 <table>
   <tr>
     <td>
-      <blockquote style="background-color: #f9f9f9; border-left: 10px solid #ccc; margin: 1.5em 10px; padding: 1em 10px;">
-        <p style="font-size: 1.1em; font-style: italic;">"Stay classy, stay cool, and don't be a fool!"</p>
+      <blockquote style="background-color: #1e1e1e; border-left: 10px solid #1db954; margin: 1.5em 10px; padding: 1em 10px; color: #ffffff;">
+        <p style="font-size: 1.2em; font-style: italic;">"Stay classy, stay cool, and don't be a fool!"</p>
         <footer style="font-weight: bold; margin-top: 0.5em;">— WestJett</footer>
       </blockquote>
     </td>
