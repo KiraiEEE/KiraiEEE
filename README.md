@@ -45,9 +45,9 @@
 
 | 🌟 Core Languages | 🛠️ Development Tools | 🧠 AI & Data Science |
 |:-----------------:|:---------------------:|:---------------------:|
-| <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp" width="60"><br>Python | <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60"><br>VS Code | <img src="https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.webp" width="60"><br>TensorFlow |
-| <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60"><br>JavaScript | <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="60"><br>Git | <img src="https://i.giphy.com/media/SU2ic3wTfuC6JhD1lA/200w.webp" width="60"><br>NumPy |
-| <img src="https://i.giphy.com/media/SsCYf6DRFJrOpP0IoM/200.webp" width="60"><br>C++ | <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" width="60"><br>Docker | <img src="https://i.giphy.com/media/jaOXKCxtBPLieRLI0c/200w.webp" width="60"><br>Pandas |
+| <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp" width="60"><br>Python | <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60"><br>VS Code | <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="60"><br>TensorFlow |
+| <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60"><br>JavaScript | <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="60"><br>Git | <img src="https://numpy.org/images/logo.svg" width="60"><br>NumPy |
+| <img src="https://i.giphy.com/media/SsCYf6DRFJrOpP0IoM/200.webp" width="60"><br>C++ | <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60"><br>Docker | <img src="https://i.giphy.com/media/p7l6subf8WlFK/giphy.webp" width="60"><br>Pandas |
 
 </div>
 
