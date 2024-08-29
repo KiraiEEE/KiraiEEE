@@ -16,20 +16,6 @@
   <img src="https://lanyard.cnrad.dev/api/711705576844951552" alt="Discord Presence" width="50%">
 </a>
 <br><br>
-<table>
-  <tr>
-    <td>
-      <blockquote style="background-color: #1e1e1e; border-left: 10px solid #1db954; margin: 1.5em 10px; padding: 1em 10px; color: #ffffff;">
-        <p style="font-size: 1.2em; font-style: italic;">"Stay classy, stay cool, and don't be a fool!"</p>
-        <footer style="font-weight: bold; margin-top: 0.5em;">— WestJett</footer>
-      </blockquote>
-    </td>
-  </tr>
-</table>
-<br>
-<br>
-<img src="https://cdn.discordapp.com/emojis/855503002809663488.gif" alt="" width="9%">
-</div>
 
 
 
@@ -95,6 +81,18 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiraieee&theme=radical&layout=compact" alt="Top Languages" />
+<table>
+  <tr>
+    <td>
+      <blockquote style="background-color: #1e1e1e; border-left: 10px solid #1db954; margin: 1.5em 10px; padding: 1em 10px; color: #ffffff;">
+        <p style="font-size: 1.2em; font-style: italic;">"Stay classy, stay cool, and don't be a fool!"</p>
+        <footer style="font-weight: bold; margin-top: 0.5em;">— WestJett</footer>
+      </blockquote>
+    </td>
+  </tr>
+</table>
+<br>
+<br>
+<!--<img src="https://cdn.discordapp.com/emojis/855503002809663488.gif" alt="" width="9%"> -->
 </div>
+
