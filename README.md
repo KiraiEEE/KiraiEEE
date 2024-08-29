@@ -3,9 +3,7 @@
 <table>
   <tr>
     <td width="50%">
-      <a href="https://open.spotify.com/user/fb73ooo5k3vbhnbarneqgc3sr">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=11ff00&bar_color_cover=false" alt="Spotify Profile" width="100%" />
-      </a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
     </td>
     <td width="50%">
       <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Fun GIF" width="100%">
