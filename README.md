@@ -9,30 +9,9 @@
   <img src="https://numpy.org/images/logo.svg" width="60" alt="NumPy">
 </div>
 
-<h4 align="center">My Skill Constellations 💫</h4>
+<h3 align="center">💫 My Skill Constellations</h3>
 
 <br>
-
-
-<div align="center">
-# 🎵 Vibing & Coding 🚀
-<table>
-  <tr>
-    <td width="50%" >
-      <a href="https://open.spotify.com/user/fb73ooo5k3vbhnbarneqgc3sr">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=e13333&bar_color_cover=true" alt="Spotify Profile" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Fun GIF" width="100%">
-    </td>
-  </tr>
-</table>
-<a href="https://discord.com/users/711705576844951552">
-  <img src="https://lanyard.cnrad.dev/api/711705576844951552" alt="Discord Presence" width="50%">
-</a>
-<br><br>
-
 
 
 
@@ -76,6 +55,28 @@
 | [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&style=flat-square&border-radius=50%)](https://kotlinlang.org) | | [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&style=flat-square&border-radius=50%)](https://www.docker.com) |
 
 </div>
+
+<div align="center">
+# 🎵 Vibing & Coding 🚀
+<table>
+  <tr>
+    <td width="50%" >
+      <a href="https://open.spotify.com/user/fb73ooo5k3vbhnbarneqgc3sr">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=e13333&bar_color_cover=true" alt="Spotify Profile" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Fun GIF" width="100%">
+    </td>
+  </tr>
+</table>
+<a href="https://discord.com/users/711705576844951552">
+  <img src="https://lanyard.cnrad.dev/api/711705576844951552" alt="Discord Presence" width="50%">
+</a>
+<br><br>
+
+
+
 
 <br>
 
