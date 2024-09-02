@@ -6,7 +6,6 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" alt="VS Code">
   <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="60" alt="Git">
   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="60" alt="TensorFlow">
-  <img src="https://numpy.org/images/logo.svg" width="60" alt="NumPy">
 </div>
 
 <h3 align="center">💫 My Skill Constellations</h3>
