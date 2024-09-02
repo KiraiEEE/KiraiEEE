@@ -3,8 +3,8 @@
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp" width="60" alt="Python">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" alt="JavaScript">
   <img src="https://i.giphy.com/media/SsCYf6DRFJrOpP0IoM/200.webp" width="60" alt="C++">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" alt="VS Code">
   <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="60" alt="Git">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" alt="VS Code">
   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="60" alt="TensorFlow">
 </div>
 
