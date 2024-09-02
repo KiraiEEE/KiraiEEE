@@ -1,7 +1,4 @@
 <h2 align="center">Welcome to my Github page</h2>
-
-<h4 align="center">My Skill Constellations 💫</h4>
-
 <div align="center">
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp" width="60" alt="Python">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" alt="JavaScript">
@@ -11,6 +8,8 @@
   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="60" alt="TensorFlow">
   <img src="https://numpy.org/images/logo.svg" width="60" alt="NumPy">
 </div>
+
+<h4 align="center">My Skill Constellations 💫</h4>
 
 <br>
 
