@@ -8,10 +8,8 @@
   <img src="https://i.giphy.com/media/SsCYf6DRFJrOpP0IoM/200.webp" width="60" alt="C++">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" alt="VS Code">
   <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="60" alt="Git">
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60" alt="Docker">
   <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="60" alt="TensorFlow">
   <img src="https://numpy.org/images/logo.svg" width="60" alt="NumPy">
-  <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="60" alt="Pandas">
 </div>
 
 <br>
