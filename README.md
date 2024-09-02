@@ -1,15 +1,17 @@
 <h2 align="center">Welcome to my Github page</h2>
 
-<h3 align="center">My Skill Constellations 💫</h3>
-
+<h4 align="center">My Skill Constellations 💫</h4>
 
 <div align="center">
-
-| 🌟 Languages | 🛠️ Tools | 🧠 AI & Data Science |
-|:-----------------:|:---------------------:|:---------------------:|
-| <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp" width="60"><br>Python | <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60"><br>VS Code | <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="60"><br>TensorFlow |
-| <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60"><br>JavaScript | <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="60"><br>Git | <img src="https://numpy.org/images/logo.svg" width="60"><br>NumPy |
-| <img src="https://i.giphy.com/media/SsCYf6DRFJrOpP0IoM/200.webp" width="60"><br>C++ | <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60"><br>Docker | <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="60"><br>Pandas |
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/giphy.webp" width="60" alt="Python">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="60" alt="JavaScript">
+  <img src="https://i.giphy.com/media/SsCYf6DRFJrOpP0IoM/200.webp" width="60" alt="C++">
+  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="60" alt="VS Code">
+  <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/200.webp" width="60" alt="Git">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60" alt="Docker">
+  <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="60" alt="TensorFlow">
+  <img src="https://numpy.org/images/logo.svg" width="60" alt="NumPy">
+  <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="60" alt="Pandas">
 </div>
 
 <br>
@@ -17,11 +19,11 @@
 
 <div align="center">
 # 🎵 Vibing & Coding 🚀
-<table style="scale: 0.85;">
+<table>
   <tr>
     <td width="50%" >
       <a href="https://open.spotify.com/user/fb73ooo5k3vbhnbarneqgc3sr">
-        <img style="scale: 0.8a5;" src="https://spotify-github-profile.kittinanx.com/api/view?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=e13333&bar_color_cover=true" alt="Spotify Profile" width="100%" />
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fb73ooo5k3vbhnbarneqgc3sr&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=e13333&bar_color_cover=true" alt="Spotify Profile" width="100%" />
       </a>
     </td>
     <td width="50%">
@@ -67,7 +69,7 @@
 
 <div align="center">
 
-| 🌈 Languages | 🏗️ Frameworks | 🧰 Toolbox |
+| 🗣️ 言語 | 🏗️ フレームワーク | 🧰 ツールボックス |
 |:--------------------:|:----------------------:|:----------:|
 | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat-square&border-radius=50%)](https://www.python.org) | [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&style=flat-square&border-radius=50%)](https://vuejs.org) | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat-square&border-radius=50%)](https://git-scm.com) |
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=flat-square&border-radius=50%)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=flat-square&border-radius=50%)](https://nodejs.org) | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square&border-radius=50%)](https://github.com) |
