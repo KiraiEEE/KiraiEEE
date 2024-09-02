@@ -1,4 +1,6 @@
-<h2 align="center">My Skill Constellations 🌌</h2>
+<h2 align="center">Welcome to my Github page</h2>
+
+<h3 align="center">My Skill Constellations 💫</h3>
 
 
 <div align="center">
@@ -31,9 +33,6 @@
   <img src="https://lanyard.cnrad.dev/api/711705576844951552" alt="Discord Presence" width="50%">
 </a>
 <br><br>
-
-
-
 
 
 
