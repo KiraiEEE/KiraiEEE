@@ -54,3 +54,9 @@
 | [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&style=flat-square&border-radius=50%)](https://kotlinlang.org) | | [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&style=flat-square&border-radius=50%)](https://www.docker.com) |
 
 </div>
+
+
+
+<br> 
+
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="50">
