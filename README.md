@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="center">Hellow</h2>
+<h2 align="center">Hellow orld</h2>
 
 <img src="https://skillicons.dev/icons?i=rust,kotlin,unreal,unity,nuxt,docker&theme=dark" />
 
