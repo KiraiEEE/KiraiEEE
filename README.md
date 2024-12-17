@@ -3,7 +3,7 @@
 
 <img src="https://skillicons.dev/icons?i=docker,nuxt,unreal,unity,kotlin,tensorflow,pytorch,rust&theme=dark" />
 
-</div>
+
 
 
 
@@ -19,3 +19,6 @@
 | 激活函数       | 使用ReLU, sigmoid لتحسين非线性。          |
 | 误差反向传播   | 使梯度∇传播 لتحديث模型权重。               |
 | アンサンブル    | عدة模型合并 提升预测准确性。               |
+
+
+</div>
