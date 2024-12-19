@@ -1,6 +1,6 @@
 <div align="center">
 <h2 align="center">🔮 KiraiEEE: Wizard of Unseen Realms and Eternal Questioner 🌀</h2>
-### >>∞🔥🌩️⚡>>>>>🌪️ Zig和Rust统治未来 🌑🎭🦄🚀<<<<🔥<<<0<<
+>>∞🔥🌩️⚡>>>>>🌪️ Zig和Rust统治未来 🌑🎭🦄🚀<<<<🔥<<<0<<
 
 <img src="https://skillicons.dev/icons?i=docker,nuxt,unreal,unity,kotlin,tensorflow,pytorch,rust&theme=dark" />
 
