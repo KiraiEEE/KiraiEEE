@@ -1,9 +1,8 @@
 <div align="center">
-<h2 align="center">KiraiEEE: Magic and something researcher ig</h2>
-<h3 align="center">>>∞🔥><><><><🌪️Zig和Rust统治未来🎭🦄🚀<<0<<<🔥<<</h3>
+<h2 align="center">🔮 KiraiEEE: Wizard of Unseen Realms and Eternal Questioner 🌀</h2>
+### >>∞🔥🌩️⚡>>>>>🌪️ Zig和Rust统治未来 🌑🎭🦄🚀<<<<🔥<<<0<<
 
 <img src="https://skillicons.dev/icons?i=docker,nuxt,unreal,unity,kotlin,tensorflow,pytorch,rust&theme=dark" />
-
 
 
 | Baguette          | Desc                                   |
@@ -18,6 +17,5 @@
 | 激活函数       | 使用ReLU, sigmoid لتحسين非线性。          |
 | 误差反向传播   | 使梯度∇传播 لتحديث模型权重。               |
 | アンサンブル    | عدة模型合并 提升预测准确性。               |
-
 
 </div>
