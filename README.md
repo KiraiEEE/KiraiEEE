@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://skillicons.dev/icons?i=rust,zig,vim,unreal,pytorch,tensorflow,kubernetes&theme=dark&perline=7" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=zig,vim,pytorch&theme=dark&perline=7" />
   <br>
-  LOADING...
-</div>
+  <a href="https://kiraieee.github.io/">...</a>
+</p>
