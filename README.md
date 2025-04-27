@@ -12,10 +12,8 @@
 </a>
 
 
+![AppVeyor Build](https://img.shields.io/appveyor/build/qdq/qdqd)
 
-<a href="https://kiraieee.github.io/">
-    <img src="[https://img.shields.io/badge/Home...-blueviolet](https://img.shields.io/badge/any_text-you_like-blue)" alt="Website" />
-</a>
   </div>
   
 
