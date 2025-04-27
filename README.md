@@ -8,11 +8,8 @@
 
 
 <a href="https://kiraieee.github.io/">
-    <img src="https://img.shields.io/badge/Home...-blueviolet" alt="Website" />
+    <img src="https://img.shields.io/badge/Home" alt="Website" />
 </a>
-
-
-![AppVeyor Build](https://img.shields.io/appveyor/build/qdq/qdqd)
 
   </div>
   
