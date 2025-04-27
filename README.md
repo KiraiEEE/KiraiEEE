@@ -22,11 +22,6 @@
     </a>
   </div>
 
-  <br>
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kiraieee&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  </div>
 </p>
 
 
