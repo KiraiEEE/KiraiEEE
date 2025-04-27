@@ -10,6 +10,12 @@
 <a href="https://kiraieee.github.io/">
     <img src="https://img.shields.io/badge/Home...-blueviolet" alt="Website" />
 </a>
+
+
+
+<a href="https://kiraieee.github.io/">
+    <img src="[https://img.shields.io/badge/Home...-blueviolet](https://img.shields.io/badge/any_text-you_like-blue)" alt="Website" />
+</a>
   </div>
   
 
