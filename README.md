@@ -8,7 +8,7 @@
 
 
 <a href="https://kiraieee.github.io/">
-    <img src="https://img.shields.io/badge/Home...-blueviolet?style=plastic" alt="Website" />
+    <img src="https://img.shields.io/badge/Home...-gray?style=plastic" alt="Website" />
 </a>
     
   </div>
