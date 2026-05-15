@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 
 ```
 ⠀⠀⠀⡠⠀⡠⠊⠁⠀⠀⣠⡴⠛⠉⣠⡶⠟⠋⣥⣠⣤⡀⠀⠀⠀⠀⠀⠀⠈⠑⢦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢶⡄⠀⠀⠀⠀⠀
@@ -45,7 +45,7 @@
 ```
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 
 ```
 ╔══════════════════════════════╗
@@ -55,18 +55,14 @@
 
 ```bash
 $ cat eny.inf
-```
-```
+
   name    →  akram ben fekih
-  job     →  no job (yet)
+  job     →  no job
   height  →  too short
   skills  →  a lot
-```
 
-```bash
 $ cat stack.inf
-```
-```
+
   frontend  →  Vue.js · Nuxt
   backend   →  Express · Sequelize
              →  .NET WinUI
@@ -74,18 +70,13 @@ $ cat stack.inf
   ai / ml   →  TensorFlow · PyTorch
              →  Pandas
   tools     →  Claude Code
-```
 
-```bash
 $ cat hobby.inf
-```
-```
+
   gaming  →  Genshin · Valorant
   vibes   →  cafe hopping · anime
   always  →  learning...
-```
 
-```
 $ _
 ```
 
