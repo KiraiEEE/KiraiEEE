@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td valign="middle" width="50%">
+<td valign="middle" width="40%">
 
 <pre>
 ⠀⠀⠀⡠⠀⡠⠊⠁⠀⠀⣠⡴⠛⠉⣠⡶⠟⠋⣥⣠⣤⡀⠀⠀⠀⠀⠀⠀⠈⠑⢦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢶⡄⠀⠀⠀⠀⠀
@@ -45,37 +45,38 @@
 </pre>
 
 </td>
-<td valign="middle" width="50%">
+<td valign="middle" width="60%">
 
 <pre>
-╔══════════════════════════════╗
-║     kiraieee@github          ║
-╚══════════════════════════════╝
+╔══════════════════════════════════╗
+║          kiraieee@github         ║
+╚══════════════════════════════════╝
 
   $ cat eny.inf
 
-  name    →  akram ben fekih
-  job     →  no job (yet)
-  height  →  too short
-  skills  →  a lot
+akram ben fekih
+no job
+too short
+
 
   $ cat stack.inf
 
-  frontend  →  Vue.js · Nuxt
-  backend   →  Express · Sequelize
-             →  .NET WinUI
-  mobile    →  Flutter
-  ai / ml   →  TensorFlow · PyTorch
-             →  Pandas
-  tools     →  Claude Code
+Vue.js · Nuxt
+Express · Sequelize
+.NET WinUI
+Flutter
+TensorFlow · PyTorch
+Pandas
+Claude Code
 
   $ cat hobby.inf
 
-  gaming  →  Genshin · Valorant
-  vibes   →  cafe hopping · anime
-  always  →  learning...
+Genshin · Valorant
+cafe hopping · anime
+learning...
 
   $ _
+  
 </pre>
 
 </td>
