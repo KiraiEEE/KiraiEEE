@@ -1,8 +1,4 @@
-<table>
-<tr>
-<td valign="middle" width="40%">
 
-<pre>
 ⠀⠀⠀⡠⠀⡠⠊⠁⠀⠀⣠⡴⠛⠉⣠⡶⠟⠋⣥⣠⣤⡀⠀⠀⠀⠀⠀⠀⠈⠑⢦⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢶⡄⠀⠀⠀⠀⠀
 ⠀⢀⣜⣴⠟⢀⠄⢀⠴⠊⡁⠀⣠⠞⢁⠆⢀⠜⠋⠀⠈⠛⢦⡀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣷⣄⣀⠀⠀⠀⠀⠀⠀⠈⠂⠈⠢⡀⠀⠀⠀
 ⠀⣾⠟⠁⠐⠁⠀⠀⡠⠊⠀⠔⠁⠀⡜⠀⠀⢀⠀⢀⠀⠀⠀⠑⣄⠀⠀⠀⠀⠀⠀⢢⣀⠈⢻⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⡀⠈⠂⡀⠀
@@ -42,40 +38,5 @@
 ⠀⠀⠀⠀⠀⠀⠀⡸⠀⠀⢲⣤⣠⣤⣄⣠⡀⠀⠙⢯⡀⠀⢸⣿⣿⡿⠁⣰⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡄⠀⢠⣶⡿⠏⠀⠀
 ⠀⠀⠀⠀⠀⠀⠰⠁⠀⠀⣾⣿⠠⠀⠀⠈⠻⣶⣄⠀⠙⠲⣿⡹⠏⠀⣰⣿⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢱⣴⠟⠁⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⡠⠦⠚⠉⠀⠀⠀⠐⠀⠀⠈⢿⡷⢤⠴⠛⠁⠀⠀⢈⣀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡄⠀⠀⠀⠀⠀
-</pre>
 
-</td>
-<td valign="middle" width="60%">
-
-<pre>
-
-  $ cat eny.inf
-
-akram ben fekih
-no job
-too short
-
-
-  $ cat stack.inf
-
-Vue.js · Nuxt
-Express · Sequelize
-.NET WinUI
-Flutter
-TensorFlow · PyTorch
-Pandas
-Claude Code
-
-  $ cat hobby.inf
-
-Genshin · Valorant
-cafe hopping · anime
-learning...
-
-  $ _
-  
-</pre>
-
-</td>
-</tr>
 </table>
