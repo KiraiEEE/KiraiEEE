@@ -15,7 +15,6 @@
                         |__>            || ||      || ||
 
 
-<img width="432" height="127" alt="image" src="https://github.com/user-attachments/assets/6cfeb79a-84fc-4513-8caa-cc71e71a5daf" />
-
+<img width="447" height="122" alt="Screenshot 2026-06-02 213952" src="https://github.com/user-attachments/assets/9b53cc0d-4fa7-434b-8211-88554cb137f4" /
 
 </pre>
