@@ -1,5 +1,3 @@
-
-  <pre>
 <iframe
   title="User Widget"
   width="289"
@@ -7,5 +5,4 @@
   frameborder="0"
   sandbox="allow-scripts"
   src="https://widget.ennead.cc/compact?id=1509604528780214402&theme=dark&nameplate=true&nameplate_animated=true"
-></iframe>⠀⠀
-</pre>
+></iframe>
