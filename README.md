@@ -1,4 +1,4 @@
-# self-taught dev, accidental academic 🤓
+# self-taught dev, accidental academic
 
 acquired a research master's, and somehow remained enthusiastic about technology.
 
