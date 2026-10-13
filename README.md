@@ -2,5 +2,5 @@
 
 acquired a research master's, and somehow remained enthusiastic about technology.
 
-<img width="640" alt="Tech GIF" src="(https://i.ibb.co/NdBd3d1n/2970.gif)" />
+<img width="640" alt="Tech GIF" src="https://i.ibb.co/NdBd3d1n/2970.gif" />
 
